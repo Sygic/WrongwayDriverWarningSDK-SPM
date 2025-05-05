@@ -18,7 +18,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "WrongwayDriverWarningSDK",
-            url: "https://github.com/jurajantas/WrongwayDriverWarningSDK/releases/download/5.2.1/WrongwayDriverWarningSDK.xcframework.zip",
-            checksum: "4795a7fe5ad5a4d08d9f1220a25b94f068fb83761115dffbd5264366db032201")
+            url: "https://github.com/Sygic/WrongwayDriverWarningSDK-SPM/blob/main/WrongwayDriverWarningSDK.xcframework.zip",
+            checksum: "59df83b17ebb187ee934a9837c4b1d0c69986031d02e24cd737a14a2152c212e")
     ]
 )
